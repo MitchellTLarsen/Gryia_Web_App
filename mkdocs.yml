@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Gryia Codex
+nav:
+  - Home: index.md
+  - Game:
+      - Overview: game.md
+  - Lore:
+      - World: lore.md
